@@ -1,4 +1,3 @@
-# LGMVIP_TASK-4_Beginner_level
 # IMAGE TO PENCIL SKETCH WITH PYTHON:
 
 A small code that can convert an image to a pencil sketch like image. An image is basically an array of numbers to Python. 
